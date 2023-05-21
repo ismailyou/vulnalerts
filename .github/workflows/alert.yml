@@ -11,6 +11,6 @@ jobs:
     - uses: actions/checkout@master
     - uses: ismailyou/vulnalerts@master
       env:
-        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
     - name: done
       run: echo 'done'
