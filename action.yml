@@ -1,5 +1,5 @@
 name: 'VulnAlerts'
-description: 'Customized daily Vulnerabilty Alerts straight to your Slack Inbox for Free.'
+description: 'Customized daily Vulnerabilty Alerts straight to your Slack Inbox.'
 branding:
   icon: 'shield'
   color: 'blue'
